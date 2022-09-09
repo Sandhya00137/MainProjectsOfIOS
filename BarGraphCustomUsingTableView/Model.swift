@@ -10,7 +10,7 @@ import UIKit
 struct BarChartValues
 {
     var month : String
-    var salesValue : Int
+    var salesValue : Double
     var barColour : UIColor
     var salesValueColour : UIColor
 }
