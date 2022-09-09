@@ -36,7 +36,7 @@
                         </constraints>
                     </view>
                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6Ff-ok-qAh">
-                        <rect key="frame" x="53" y="33.5" width="214" height="2"/>
+                        <rect key="frame" x="52" y="33.5" width="214" height="2"/>
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstAttribute="width" constant="214" id="DUD-oX-MH7"/>
@@ -44,7 +44,7 @@
                         </constraints>
                     </view>
                     <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1AI-6W-iwe">
-                        <rect key="frame" x="267" y="27" width="15" height="15"/>
+                        <rect key="frame" x="266" y="27" width="15" height="15"/>
                         <subviews>
                             <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ggX-4S-dE2">
                                 <rect key="frame" x="2" y="2" width="11" height="11"/>
@@ -75,7 +75,7 @@
                     <constraint firstItem="gxW-dg-Rpo" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="4ph-iq-5k3"/>
                     <constraint firstItem="rfV-go-Fx0" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="GXB-Ge-cBY"/>
                     <constraint firstItem="1AI-6W-iwe" firstAttribute="centerY" secondItem="6Ff-ok-qAh" secondAttribute="centerY" id="HvB-A6-dYy"/>
-                    <constraint firstItem="6Ff-ok-qAh" firstAttribute="leading" secondItem="gxW-dg-Rpo" secondAttribute="trailing" constant="1" id="Opj-Yo-HUR"/>
+                    <constraint firstItem="6Ff-ok-qAh" firstAttribute="leading" secondItem="gxW-dg-Rpo" secondAttribute="trailing" id="Opj-Yo-HUR"/>
                     <constraint firstItem="6Ff-ok-qAh" firstAttribute="centerY" secondItem="gxW-dg-Rpo" secondAttribute="centerY" id="dMd-5i-WOH"/>
                     <constraint firstItem="gxW-dg-Rpo" firstAttribute="leading" secondItem="rfV-go-Fx0" secondAttribute="trailing" constant="8" id="fl5-2N-MKM"/>
                     <constraint firstAttribute="bottom" secondItem="gxW-dg-Rpo" secondAttribute="bottom" id="l00-pu-doS"/>
